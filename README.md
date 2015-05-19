@@ -1,2 +1,0 @@
-# takePause
-IESA mobile project
